@@ -26,5 +26,5 @@ Currently building real-world projects in SQL, Excel, and Power BI — one datas
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/prakhar-singh-503528314)
+- [LinkedIn](https://www.linkedin.com/in/prakhar-singh-503528314)
 - [GitHub](https://github.com/prakhardotdev)
