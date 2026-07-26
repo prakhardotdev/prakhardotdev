@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Prakhar 👋
 
-<!--
-**prakhardotdev/prakhardotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | SQL • Excel • Power BI • Python
 
-Here are some ideas to get you started:
+BCA student at Shri Ramswaroop Memorial University, Lucknow.
+Passionate about turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Skills
+
+- **Languages:** SQL
+- **Visualization:** Power BI
+- **Spreadsheets:** Excel
+- **Currently Learning:** Python (pandas, matplotlib)
+
+---
+
+## 📚 Projects
+
+👉 [View my Project Portfolio](https://github.com/prakhardotdev/Portfolio-Guide)
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/prakhar-singh-503528314)
